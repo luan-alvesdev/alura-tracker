@@ -1,10 +1,11 @@
 <template>
   <main class="columns is-gapless is-multiline">
-    <div class="colum is-one-quarter">
+    <div class="column is-one-quarter">
       <BarraLateral />
     </div>
-    <div class="colum is-three-quarter">
+    <div class="column is-three-quarter">
       <FormularioTarefa />
+      <!-- Lista de Tarefas ???? -->
     </div>
   </main>
 </template>
